@@ -1,0 +1,16 @@
+    1  ls
+    2  mkdir a
+    3  ls
+    4  sudo apt update
+    5  sudo apt install git -y
+    6  git clone https://github.com/Ivanjuliao10/LI2025-Teste04.git
+    7* ls -la
+ls -la
+    8  ls -la
+    9  mkdir js css
+   10  cd js
+   11  echo "//ficheiro de script" > script.js
+   12  echo "" > ../css/style.css
+   13  cd ..
+   14  pwd
+   15  history > cmdsTarefa2.txt
